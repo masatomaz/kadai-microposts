@@ -12,4 +12,15 @@
  *
  *= require_tree .
  *= require_self
+ 
  */
+@import "font-awesome-sprockets";
+@import "font-awesome"; 
+
+.skyblue {
+    color: #337ab7;
+}
+
+.media-list {
+    margin-top: 20px;
+}
